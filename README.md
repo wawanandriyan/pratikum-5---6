@@ -50,7 +50,7 @@ for item in nilai:
     print("| {no:2d} |{nim:12s}|   {nama:9s}    |  {nilaiTugas:5d}  | {nilaiUts:5d} | {nilaiUas:5d} |  {nilaiAkhir:6.2f} |"
             .format(no=i, nim=item[0], nama=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5]))
 print("========================================================================")
-
+'''
 - Flowchart
 ![FLOWCHART]https://github.com/wawanandriyan/pratikum-5---6/blob/master/gambar/flowchart%20pratikum%205%20-%206.png
 
